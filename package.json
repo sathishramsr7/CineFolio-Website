@@ -2,6 +2,7 @@
   "name": "my-movie",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://sathishramsr7.github.io/CineFolio-Website",
   "type": "module",
   "scripts": {
     "dev": "vite",
